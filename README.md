@@ -149,9 +149,7 @@ By using Picnic Friends, users can benefit from the opportunity to expand their 
 
 ## Bugs
 
-### Fixed
-
-### Not fixed
+After deployment, images don't show up on the map markers. We are currently working on resolving this issue.
 
 ## Deployment
 
